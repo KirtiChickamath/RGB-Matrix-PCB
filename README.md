@@ -30,13 +30,13 @@ This project is inspired by the [RGB LED Matrix Controller from Cal Poly iDesign
 - Regulated to 5V using 7805 voltage regulator
 
 ## Project Files
-- `Altium Files` -- Altium files
+- `Altium files` -- Altium files
 - `Assembly Files` -- Assembly files
-- `BOM` -- Bill of Material
-- `Gerber` -- Gerber Files
+- `Bill of Materials` -- Bill of Material
+- `Gerber Files` -- Gerber Files
 - `Images` -- Images
-- `Layers` -- Layers
-- `NC Drill` -- NC Drill
+- `Images` -- Layers
+- `NC Drill Files` -- NC Drill
 - `STEP` -- STEP file
   
 
