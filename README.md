@@ -26,7 +26,7 @@ This project is inspired by the [RGB LED Matrix Controller from Cal Poly iDesign
 - Boosts current from logic-level to suitable drive levels for LEDs  
 
 ### Power Supply
-- 4x AAA batteries (~6V)  
+- 6x AA batteries (~9V)  
 - Regulated to 5V using 7805 voltage regulator
 
 ## Project Files
