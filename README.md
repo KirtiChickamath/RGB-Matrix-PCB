@@ -35,9 +35,8 @@ This project is inspired by the [RGB LED Matrix Controller from Cal Poly iDesign
 - `Bill of Materials` -- Bill of Material
 - `Gerber Files` -- Gerber Files
 - `Images` -- Images
-- `Images` -- Layers
 - `NC Drill Files` -- NC Drill
-- `STEP` -- STEP file
+
   
 
 ## Images
