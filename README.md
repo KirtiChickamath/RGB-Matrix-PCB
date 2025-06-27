@@ -46,11 +46,11 @@ This project is inspired by the [RGB LED Matrix Controller from Cal Poly iDesign
 ![RGB LED Schematic](https://github.com/user-attachments/assets/0740f46d-9db9-4f8e-9619-4a2f0f678648)
 
 ### PCB Layout
-![RGB LED layout](Images/PNG/RGB LED LAYOUT.png)
+![Layout](https://github.com/KirtiChickamath/RGB-Matrix-PCB/blob/main/Images/PNG/RGB%20LED%20LAYOUT.png)
 
-![RGB LED Layout top](Images/PNG/LAYOUT TOP.png)
+![Layout Top](https://github.com/KirtiChickamath/RGB-Matrix-PCB/blob/main/Images/PNG/LAYOUT%20TOP.png)
 
-![RGB LED Layout bottom](Images/PNG/LAYOUT BOTTOM.png)
+![Layout Bottom](https://github.com/KirtiChickamath/RGB-Matrix-PCB/blob/main/Images/PNG/LAYOUT%20BOTTOM.png)
 
 ### 3D
 ![Board](Images/3D/card.png)
